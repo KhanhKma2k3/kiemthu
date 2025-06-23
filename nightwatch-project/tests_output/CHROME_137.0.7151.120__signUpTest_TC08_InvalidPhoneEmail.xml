@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="1">
+
+  <testsuite name="signUpTest_TC08_InvalidPhoneEmail" id="signUpTest_TC08_InvalidPhoneEmail"
+    errors="0" failures="0" hostname="" package="signUpTest_TC08_InvalidPhoneEmail" skipped="0"
+    tests="1" time="8.547" timestamp="">
+  
+    <testcase name="TC_08 - Đăng ký với email/số điện thoại có ký tự đặc biệt" classname="signUpTest_TC08_InvalidPhoneEmail" time="8.547" assertions="8">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+    
+
+  
+  </testsuite>
+</testsuites>

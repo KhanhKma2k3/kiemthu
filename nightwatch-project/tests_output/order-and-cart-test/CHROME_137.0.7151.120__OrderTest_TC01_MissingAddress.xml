@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="1">
+
+  <testsuite name="order-and-cart-test.OrderTest_TC01_MissingAddress" id="order-and-cart-test.OrderTest_TC01_MissingAddress"
+    errors="0" failures="0" hostname="" package="order-and-cart-test" skipped="0"
+    tests="1" time="86.61" timestamp="">
+  
+    <testcase name="TC_01 - Đặt hàng thiếu địa chỉ" classname="order-and-cart-test.OrderTest_TC01_MissingAddress" time="86.60" assertions="13">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+    
+
+  
+  </testsuite>
+</testsuites>

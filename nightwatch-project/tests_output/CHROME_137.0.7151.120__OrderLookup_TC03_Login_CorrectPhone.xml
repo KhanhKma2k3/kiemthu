@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="1">
+
+  <testsuite name="OrderLookup_TC03_Login_CorrectPhone" id="OrderLookup_TC03_Login_CorrectPhone"
+    errors="0" failures="0" hostname="" package="OrderLookup_TC03_Login_CorrectPhone" skipped="0"
+    tests="1" time="64.83" timestamp="">
+  
+    <testcase name="TC_03 - Đăng nhập và tra cứu với SĐT đúng" classname="OrderLookup_TC03_Login_CorrectPhone" time="64.82" assertions="4">
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+    
+
+  
+  </testsuite>
+</testsuites>

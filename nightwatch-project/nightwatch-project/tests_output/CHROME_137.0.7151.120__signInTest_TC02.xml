@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="1"
+            tests="1">
+
+  <testsuite name="signInTest_TC02" id="signInTest_TC02"
+    errors="0" failures="1" hostname="" package="signInTest_TC02" skipped="0"
+    tests="1" time="49.29" timestamp="">
+  
+    <testcase name="TC_Thêm sản phẩm đầu tiên sau khi đăng nhập vào yêu thích" classname="signInTest_TC02" time="49.28" assertions="7">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+      <failure message="Timed out while waiting for element &lt;//*[@id=&#34;content&#34;]/section/div[1]/h3/a&gt; to be present for 10000 milliseconds. - expected &#34;visible&#34; but got: &#34;not found&#34; (10612ms)">    at TC_Thêm sản phẩm đầu tiên sau khi đăng nhập vào yêu thích (C:\Users\phamx\Documents\Baitapnhung\nightwatch-project\tests\signInTest_TC02.js:32:8)</failure>
+
+    
+    </testcase>
+  
+
+  
+
+    
+
+  
+  </testsuite>
+</testsuites>

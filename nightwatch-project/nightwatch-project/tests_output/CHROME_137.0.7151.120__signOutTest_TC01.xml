@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="1"
+            tests="1">
+
+  <testsuite name="signOutTest_TC01" id="signOutTest_TC01"
+    errors="0" failures="1" hostname="" package="signOutTest_TC01" skipped="0"
+    tests="1" time="33.40" timestamp="">
+  
+    <testcase name="TC_01 - Đăng xuất thành công" classname="signOutTest_TC01" time="33.40" assertions="6">
+
+    
+
+    
+
+    
+
+    
+
+      <failure message="Timed out while waiting for element &lt;//a[contains(text(), &#39;Đăng xuất&#39;)]&gt; to be present for 5000 milliseconds. - expected &#34;visible&#34; but got: &#34;not found&#34; (5614ms)">    at TC_01 - Đăng xuất thành công (C:\Users\phamx\Documents\Baitapnhung\nightwatch-project\tests\signOutTest_TC01.js:23:8)</failure>
+
+    
+    </testcase>
+  
+
+  
+
+    
+
+  
+  </testsuite>
+</testsuites>

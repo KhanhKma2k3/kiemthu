@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="1">
+
+  <testsuite name="signInTest_TC03" id="signInTest_TC03"
+    errors="0" failures="0" hostname="" package="signInTest_TC03" skipped="0"
+    tests="1" time="78.97" timestamp="">
+  
+    <testcase name="TC_04 - Đăng nhập sai 5 lần kiểm tra thông báo lỗi" classname="signInTest_TC03" time="78.97" assertions="25">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+    
+
+  
+  </testsuite>
+</testsuites>

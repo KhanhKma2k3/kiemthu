@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="1">
+
+  <testsuite name="addToCartTest_TC01" id="addToCartTest_TC01"
+    errors="0" failures="0" hostname="" package="addToCartTest_TC01" skipped="0"
+    tests="1" time="84.92" timestamp="">
+  
+    <testcase name="TC_05 - Thêm sản phẩm vào giỏ hàng và kiểm tra số lượng" classname="addToCartTest_TC01" time="84.91" assertions="10">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+    
+
+  
+  </testsuite>
+</testsuites>

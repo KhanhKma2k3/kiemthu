@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="1"
+            failures="1"
+            tests="1">
+
+  <testsuite name="googleTest" id="googleTest"
+    errors="1" failures="1" hostname="" package="googleTest" skipped="0"
+    tests="1" time="14.36" timestamp="">
+  
+    <testcase name="Google Search Test" classname="googleTest" time="14.36" assertions="2">
+
+      <failure message="Testing if the page title contains &#39;Nightwatch.js&#39; in 5000ms - expected &#34;contains &#39;Nightwatch.js&#39;&#34; but got: &#34;Google&#34; (5328ms)">    at Google Search Test (C:\Users\phamx\Documents\Baitapnhung\nightwatch-project\tests\googleTest.js:9:15)</failure>
+
+    
+    <error message="Testing if the page title contains [33m&#39;Nightwatch.js&#39;[39m in 5000ms - expected [32m&#34;contains &#39;Nightwatch.js&#39;&#34;[39m but got: [31m&#34;Google&#34;[39m [90m(5328ms)[39m" type="error"><![CDATA[
+    Error
+    at Proxy.&lt;anonymous&gt; (C:\Users\phamx\Documents\Baitapnhung\nightwatch-project\node_modules\nightwatch\lib\api\index.js:161:30)
+    at Google Search Test (C:\Users\phamx\Documents\Baitapnhung\nightwatch-project\tests\googleTest.js:9:15)
+    at Context.call (C:\Users\phamx\Documents\Baitapnhung\nightwatch-project\node_modules\nightwatch\lib\testsuite\context.js:528:43)
+    at TestCase.run (C:\Users\phamx\Documents\Baitapnhung\nightwatch-project\node_modules\nightwatch\lib\testsuite\testcase.js:58:31)
+    at Runnable.__runFn (C:\Users\phamx\Documents\Baitapnhung\nightwatch-project\node_modules\nightwatch\lib\testsuite\index.js:842:80)
+    at Runnable.run (C:\Users\phamx\Documents\Baitapnhung\nightwatch-project\node_modules\nightwatch\lib\testsuite\runnable.js:126:21)
+    at TestSuite.executeRunnable (C:\Users\phamx\Documents\Baitapnhung\nightwatch-project\node_modules\nightwatch\lib\testsuite\index.js:1003:49)
+    at TestSuite.handleRunnable (C:\Users\phamx\Documents\Baitapnhung\nightwatch-project\node_modules\nightwatch\lib\testsuite\index.js:1018:33)
+    at C:\Users\phamx\Documents\Baitapnhung\nightwatch-project\node_modules\nightwatch\lib\testsuite\index.js:842:21
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    ]]></error>
+    
+    </testcase>
+  
+
+  
+    <system-err>
+       NoSuchElementError
+   An error occurred while running .setValue() command on &lt;input[name=&#34;q&#34;]&gt;: Timed out while waiting for element &#34;input[name=&#34;q&#34;]&#34; with &#34;css selector&#34; to be present for 5000 milliseconds.
+
+    Try fixing by :
+    1. Please inspect the html before the step
+    2. Verify if an element with the mentioned selector is present in the DOM tree
+
+    Error location:
+    C:\Users\phamx\Documents\Baitapnhung\nightwatch-project\tests\googleTest.js:6
+    –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+     4 |       .url(&#39;https://www.google.com&#39;)
+     5 |       .waitForElementVisible(&#39;body&#39;, 1000)
+     6 |       .setValue(&#39;input[name=&#34;q&#34;]&#39;, &#39;Nightwatch.js&#39;) 
+     7 |       .keys(browser.Keys.ENTER)
+     8 |       .pause(2000)
+    –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+
+    </system-err>
+  
+
+    
+
+  
+  </testsuite>
+</testsuites>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="1"
+            tests="1">
+
+  <testsuite name="signUpTest_TC06_PhoneExists" id="signUpTest_TC06_PhoneExists"
+    errors="0" failures="1" hostname="" package="signUpTest_TC06_PhoneExists" skipped="0"
+    tests="1" time="29.52" timestamp="">
+  
+    <testcase name="TC_06 - Đăng ký với số điện thoại đã tồn tại" classname="signUpTest_TC06_PhoneExists" time="29.52" assertions="8">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+      <failure message="❌ Đăng ký với số điện thoại đã tồn tại nhưng lại báo thành công (BUG)">    at NightwatchAPI.&lt;anonymous&gt; (C:\Users\phamx\Documents\Baitapnhung\nightwatch-project\tests\signUpTest_TC06_PhoneExists.js:41:26)</failure>
+
+    
+    </testcase>
+  
+
+  
+
+    
+
+  
+  </testsuite>
+</testsuites>

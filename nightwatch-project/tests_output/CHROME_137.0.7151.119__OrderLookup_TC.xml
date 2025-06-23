@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="1"
+            tests="3">
+
+  <testsuite name="OrderLookup_TC" id="OrderLookup_TC"
+    errors="0" failures="1" hostname="" package="OrderLookup_TC" skipped="0"
+    tests="3" time="22.11" timestamp="">
+  
+    <testcase name="TC_07_01 - Không nhập SĐT" classname="OrderLookup_TC" time="4.987" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="TC_07_02 - Nhập sai SĐT" classname="OrderLookup_TC" time="5.943" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="TC_07_03 - Nhập đúng SĐT" classname="OrderLookup_TC" time="11.18" assertions="3">
+
+    
+
+      <failure message="Expected element &lt;td[colspan=&#34;5&#34;]&gt; to not be present - expected &#34;not present&#34; but got: &#34;present&#34; (5164ms)">    at TC_07_03 - Nhập đúng SĐT (C:\Users\phamx\Documents\Baitapnhung\nightwatch-project\tests\OrderLookup_TC.js:54:15)</failure>
+
+    
+    </testcase>
+  
+
+  
+
+    
+
+  
+  </testsuite>
+</testsuites>

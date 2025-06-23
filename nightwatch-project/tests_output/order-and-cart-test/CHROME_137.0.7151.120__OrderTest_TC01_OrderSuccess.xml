@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="1">
+
+  <testsuite name="order-and-cart-test.OrderTest_TC01_OrderSuccess" id="order-and-cart-test.OrderTest_TC01_OrderSuccess"
+    errors="0" failures="0" hostname="" package="order-and-cart-test" skipped="0"
+    tests="1" time="24.88" timestamp="">
+  
+    <testcase name="TC_01 - Đặt hàng thành công khi nhập đầy đủ thông tin" classname="order-and-cart-test.OrderTest_TC01_OrderSuccess" time="24.88" assertions="12">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+    
+
+  
+  </testsuite>
+</testsuites>

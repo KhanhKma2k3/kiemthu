@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="1">
+
+  <testsuite name="signUpTest_TC02" id="signUpTest_TC02"
+    errors="0" failures="0" hostname="" package="signUpTest_TC02" skipped="0"
+    tests="1" time="7.921" timestamp="">
+  
+    <testcase name="TC_01 - Đăng ký không nhập tên" classname="signUpTest_TC02" time="7.919" assertions="6">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+    
+
+  
+  </testsuite>
+</testsuites>

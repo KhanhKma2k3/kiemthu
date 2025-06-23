@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="1">
+
+  <testsuite name="OrderTest_TC01_MissingAddress" id="OrderTest_TC01_MissingAddress"
+    errors="0" failures="0" hostname="" package="OrderTest_TC01_MissingAddress" skipped="0"
+    tests="1" time="116.6" timestamp="">
+  
+    <testcase name="TC_01 - Đặt hàng thiếu địa chỉ" classname="OrderTest_TC01_MissingAddress" time="116.6" assertions="13">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+    
+
+  
+  </testsuite>
+</testsuites>

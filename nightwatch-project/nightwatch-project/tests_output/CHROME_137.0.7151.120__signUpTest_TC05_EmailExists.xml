@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="1">
+
+  <testsuite name="signUpTest_TC05_EmailExists" id="signUpTest_TC05_EmailExists"
+    errors="0" failures="0" hostname="" package="signUpTest_TC05_EmailExists" skipped="0"
+    tests="1" time="24.97" timestamp="">
+  
+    <testcase name="TC_05 - Đăng ký với email đã tồn tại" classname="signUpTest_TC05_EmailExists" time="24.97" assertions="8">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+    
+
+  
+  </testsuite>
+</testsuites>

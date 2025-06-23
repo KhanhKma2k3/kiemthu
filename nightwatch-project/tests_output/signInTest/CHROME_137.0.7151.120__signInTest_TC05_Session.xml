@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="1">
+
+  <testsuite name="signInTest.signInTest_TC05_Session" id="signInTest.signInTest_TC05_Session"
+    errors="0" failures="0" hostname="" package="signInTest" skipped="0"
+    tests="1" time="30.06" timestamp="">
+  
+    <testcase name="TC_06 - Kiểm tra giữ trạng thái đăng nhập sau reload" classname="signInTest.signInTest_TC05_Session" time="30.06" assertions="6">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+    
+
+  
+  </testsuite>
+</testsuites>

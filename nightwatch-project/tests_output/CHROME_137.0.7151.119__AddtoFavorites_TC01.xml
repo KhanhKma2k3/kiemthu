@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="1"
+            tests="1">
+
+  <testsuite name="AddtoFavorites_TC01" id="AddtoFavorites_TC01"
+    errors="0" failures="1" hostname="" package="AddtoFavorites_TC01" skipped="0"
+    tests="1" time="11.94" timestamp="">
+  
+    <testcase name="TC_Thêm sản phẩm đầu tiên sau khi đăng nhập vào yêu thích" classname="AddtoFavorites_TC01" time="11.94" assertions="6">
+
+    
+
+    
+
+    
+
+    
+
+      <failure message="Timed out while waiting for element &lt;//a[@href=&#39;/profile&#39;]&gt; to be present for 5000 milliseconds. - expected &#34;visible&#34; but got: &#34;not found&#34; (5227ms)">    at TC_Thêm sản phẩm đầu tiên sau khi đăng nhập vào yêu thích (C:\Users\phamx\Documents\Baitapnhung\nightwatch-project\tests\AddtoFavorites_TC01.js:29:8)</failure>
+
+    
+    </testcase>
+  
+
+  
+
+    
+
+  
+  </testsuite>
+</testsuites>
